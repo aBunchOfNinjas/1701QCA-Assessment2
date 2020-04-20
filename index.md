@@ -12,6 +12,54 @@ Mindless, timeful cycle.
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
+#### Giant LED sign for $15/foot ####
+Project url:[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/](https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/)
+
+![Image](missingimage.png)
+
+This project is related to mine because its lighting system is very similar to the intended lighting set up that I will use. This project uses eight WS2812/Neopixel LED light strips that are stacked vertically and programmed to display text, my implementation of this sign will use the microbits 5 high LED resolution and will be about a metre long compared to this poject which is about 7 metres long.
+
+### Related project 2 ###
+*Insert name of project*
+#### Giant LED sign for $15/foot ####
+*Insert URL to project*
+[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/](https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/)
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses the 
+
+### Related project 3 ###
+*Insert name of project*
+#### Giant LED sign for $15/foot ####
+*Insert URL to project*
+[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/](https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/)
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses the 
+
+### Related project 4 ###
+*Insert name of project*
+Giant LED sign for $15/foot
+*Insert URL to project*
+[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/](https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/)
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses the 
+
+### Related project 5 ###
+*Insert name of project*
+Giant LED sign for $15/foot
+*Insert URL to project*
+[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/](https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/)
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+This project is related to mine because it uses the 
+
+### Related project 6 ###
 *Insert name of project*
 Giant LED sign for $15/foot
 *Insert URL to project*
