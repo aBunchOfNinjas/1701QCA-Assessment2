@@ -20,8 +20,8 @@ Project url:[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrollin
 This project is related to mine because its lighting system is very similar to the intended lighting set up that I will use. This project uses eight WS2812/Neopixel LED light strips that are stacked vertically and programmed to display text, my implementation of this sign will use the microbits 5 high LED resolution and will be about a meter long compared to this project which is about 7 meters long.
 
 ### Related project 2 ###
-*Insert name of project*
-#### Giant LED sign for $15/foot ####
+*Insert name of project*.   Jenny holzer
+#### Jenny holzer####
 *Insert URL to project*
 [https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/](https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/)
 ![Image](missingimage.png)
@@ -74,6 +74,10 @@ This project is related to mine because it uses the
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+Jenny holzer
+seiko Mikami
+Big josh 
+Core electironics to source parts
 
 ## Conceptual progress ##
 
@@ -90,14 +94,31 @@ This combined with the intensive processing that would be required to trim audio
 ![Image](missingimage.png).
 ### Sketch ###
 
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a ** rough sketch ** of what it might be like, and any other notes you created while exploring the idea.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
-*Put details here.*
+
 
 ### Final design concept ###
+The final design concept is a sculpture that displays text on an LED screen and that text changes as a person approaches and it detected by the sculpture. The LED screen will be the focal point of the sculpture as it will display a range of text strings with different messages; one standard loop and one for when someone is detected to be in front of the sculpture.  The sculpture will be used to provoke interest and attract people to engage in the interaction. 
+
+#### Functionality ####
+The technical functionality will vary in complexity the electronic implementation should be quite simple with only a range of LED strips and a sensor to be connected to the micro bit however, the coding side of the project will be quite intensive. 
+
+#### Fabrication ####
+
+#### Aesthetics ####
+The aesthetics of Jenny Holzers LEDS have been very inspirational in the conception of the project. With the first conception seeming quite reminiscent of some of her works. 
+ ![Image](ledlights.jpg)
+ The image above is a sketch of the original conception. The black text is the original imagining of how the project may look. The red text is the revision of the design having a smaller LED screen in the center of the sculpture.  This decision was made to shorten the LED screen after researching the materials to use. It was quickly discovered after a few measurements of a paper prototype that a lot of LEDs will be needed and that it would be quite expensive to have lights running around the whole sculpture. 
+It was calculated that the prototype was 336cm long and I intend on using a 5 high LED resolution like the micro bit so this would need 15 meters of LED strips. After looking on the Neopixel website it was found that even buying the cheapest strips (30LEDS/meter) would cost a whole $300+ and this is not feasible, so cutting the LED screen down to 1 meter means this project can be more affordable with almost the same aesthetic effect.
+ ![Image](papermockuponground.jpg)
+The paper prototype is shown above this was made very simply and was used to estimate the LED cost as well as getting a feel for how the whole thing will look, feel and work.
+
+#### Interaction ####
+When considering the interaction I was racking my head to think about how people could engage this the  
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
