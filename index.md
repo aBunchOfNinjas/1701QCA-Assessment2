@@ -17,7 +17,7 @@ Project url:[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrollin
 
 ![Image](missingimage.png)
 
-This project is related to mine because its lighting system is very similar to the intended lighting set up that I will use. This project uses eight WS2812/Neopixel LED light strips that are stacked vertically and programmed to display text, my implementation of this sign will use the microbits 5 high LED resolution and will be about a metre long compared to this poject which is about 7 metres long.
+This project is related to mine because its lighting system is very similar to the intended lighting set up that I will use. This project uses eight WS2812/Neopixel LED light strips that are stacked vertically and programmed to display text, my implementation of this sign will use the microbits 5 high LED resolution and will be about a meter long compared to this project which is about 7 meters long.
 
 ### Related project 2 ###
 *Insert name of project*
@@ -78,9 +78,18 @@ This project is related to mine because it uses the
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+Art installation that communicates ideas about living with technology.
 
 ### Design concept 1 ###
+My first idea for an interactive that aligns with the design intent, was inspired by Seiko Mikami's *Desire of Codes* this interactive installation has a range of cameras that follow visitors recording them, this footage is projected onto a screen showing past and present visitors in a cool hexagonal visualization. My idea was to use the microbit to create a smart home device reminiscent of Google home/Alexa, the device would listen to people around it and then play back recording of what people have said around it. The device could even have some visual element to get people talking about it while they're nearby. 
+
+One of the big dampeners on this idea is the limitations of the microbit. Its only a simple device with limited processing power and storage and has pretty limited functionality when it comes to audio. Due to the small storage size the melodies that it can play are short, only a few seconds and as fair as I am concerned there is no way to record sounds.
+This combined with the intensive processing that would be required to trim audio clips and play them back puts the microbit in out of its depths. 
+
+[Seiko Mikami's Desire of Codes](https://www.ntticc.or.jp/en/exhibitions/2011/mikami-seiko-desire-of-codes/)
+![Image](missingimage.png).
+### Sketch ###
+
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
