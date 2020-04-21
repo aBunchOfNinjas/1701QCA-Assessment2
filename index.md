@@ -91,16 +91,11 @@ One of the big dampeners on this idea is the limitations of the microbit. Its on
 This combined with the intensive processing that would be required to trim audio clips and play them back puts the microbit in out of its depths. 
 
 [Seiko Mikami's Desire of Codes](https://www.ntticc.or.jp/en/exhibitions/2011/mikami-seiko-desire-of-codes/)
-![Image](missingimage.png).
-### Sketch ###
-
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a ** rough sketch ** of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+![Image](designconcept1.png).
 
 ### Design concept 2 ###
-
-
+My second idea was focused around the infinite scroll user interface used by many of the most popular apps today. The human nature of how we are so easily captivated by this UI I find very interesting. From my own personal experience I've found my self captivated by a screen on many an odd occasion yet it is hard to resist; On the bus looking at the persons phone I front of me if I don't have my own, during a conversation even when I'm quite engaged in it, and when some ones instagram feed is in my field of view, all of these examples are just when I'm looking at others screens and not my own. So is it the swiping or the screen? This is an idea that I wanted to explore for the design intent. My idea to implement this would be screen similar to a phone with a similar UI to instagram of facebook however instead of showing a personalized catalog of images they would be random or stock images. The purpose would be to see how and if people would engage with just a random feed. Would people scroll? How long for? Other interesting ideas for this project could be placing it at a free charging station to see if people would use it to substitute their phone.
+![Image](swipeforever.JPG)
 ### Final design concept ###
 The final design concept is a sculpture that displays text on an LED screen and that text changes as a person approaches and it detected by the sculpture. The LED screen will be the focal point of the sculpture as it will display a range of text strings with different messages; one standard loop and one for when someone is detected to be in front of the sculpture.  The sculpture will be used to provoke interest and attract people to engage in the interaction. 
 
@@ -109,6 +104,12 @@ The technical functionality will vary in complexity the electronic implementatio
 The following is a wiring diagram 
 ![Image](wiringdiagram.JPG)
 #### Fabrication ####
+At the current stage of the project much of the fabrication is still to be worked out. My current thinking is to get a long sheet of flexible plastic and bend it into the figure 8 style shape the led screen can then be glued onto this. In the image further down of the paper prototype hanging up the sculpture is supported by string this will likely be use to hang the final project as well. The electronic componated will 
+##### Material list #####
+* 5m RGB addressable LED strip WS2812 60LEDs/meter 
+* Electrical wire?
+* Heat shrink tubing?
+* Strip of flexible plastic?
 
 #### Aesthetics ####
 The aesthetics of Jenny Holzers LEDS have been very inspirational in the conception of the project. With the first conception seeming quite reminiscent of some of her works. 
@@ -125,10 +126,10 @@ When considering the interaction I was racking my head to think about how people
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
-
+![Image](flowchart.png)
+![Image](flowdiagram.JPG)
 ## Physical experimentation documentation ##
-
+![Image](hangingpapermockup.JPG)
 *In this section, show your progress including whichever of the following are appropriate for your project at this point.
 a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
 b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
