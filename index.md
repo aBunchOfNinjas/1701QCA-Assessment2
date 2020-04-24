@@ -69,15 +69,18 @@ Giant LED sign for $15/foot
 This project is related to mine because *insert reasons here*.
 This project is related to mine because it uses the 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
 ### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
-Jenny holzer
-seiko Mikami
-Big josh 
-Core electironics to source parts
+* [https://projects.jennyholzer.com/LEDs](https://projects.jennyholzer.com/LEDs)
+Jenny Holzer - Inspiration
+[https://www.ntticc.or.jp/en/exhibitions/2011/mikami-seiko-desire-of-codes/](https://www.ntticc.or.jp/en/exhibitions/2011/mikami-seiko-desire-of-codes/)
+Seiko Mikami - Inspiration
+[https://wp.josh.com/2016/05/20/huge-scrolling-arduino-led-sign/](https://wp.josh.com/2016/05/20/huge-scrolling-arduino-led-sign/)
+Josh Levine - Build blog of functional requirements
+[https://core-electronics.com.au/5m-rgb-led-strip-ws2812-60-per-meter-black-strip-weatherproof.html](https://core-electronics.com.au/5m-rgb-led-strip-ws2812-60-per-meter-black-strip-weatherproof.html)
+Core electronics - to source parts and some tutorials 
+[https://www.kitronik.co.uk/blog/distance-sensing-microbit-hc-sr04-module](https://www.kitronik.co.uk/blog/distance-sensing-microbit-hc-sr04-module)
+Micro:bit tutorial for the Ultrasonic distance sensor
 
 ## Conceptual progress ##
 
@@ -91,7 +94,6 @@ One of the big dampeners on this idea is the limitations of the microbit. Its on
 This combined with the intensive processing that would be required to trim audio clips and play them back puts the microbit in out of its depths. 
 
 [Seiko Mikami's Desire of Codes](https://www.ntticc.or.jp/en/exhibitions/2011/mikami-seiko-desire-of-codes/)
-![Image](designconcept1.png).
 
 ### Design concept 2 ###
 My second idea was focused around the infinite scroll user interface used by many of the most popular apps today. The human nature of how we are so easily captivated by this UI I find very interesting. From my own personal experience I've found my self captivated by a screen on many an odd occasion yet it is hard to resist; On the bus looking at the persons phone I front of me if I don't have my own, during a conversation even when I'm quite engaged in it, and when some ones instagram feed is in my field of view, all of these examples are just when I'm looking at others screens and not my own. So is it the swiping or the screen? This is an idea that I wanted to explore for the design intent. My idea to implement this would be screen similar to a phone with a similar UI to instagram of facebook however instead of showing a personalized catalog of images they would be random or stock images. The purpose would be to see how and if people would engage with just a random feed. Would people scroll? How long for? Other interesting ideas for this project could be placing it at a free charging station to see if people would use it to substitute their phone.
@@ -110,6 +112,8 @@ At the current stage of the project much of the fabrication is still to be worke
 * Electrical wire?
 * Heat shrink tubing?
 * Strip of flexible plastic?
+* String
+* Wood or other construction material(for hanging frame)
 
 #### Aesthetics ####
 The aesthetics of Jenny Holzers LEDS have been very inspirational in the conception of the project. With the first conception seeming quite reminiscent of some of her works. 
@@ -120,12 +124,9 @@ It was calculated that the prototype was 336cm long and I intend on using a 5 hi
 The paper prototype is shown above this was made very simply and was used to estimate the LED cost as well as getting a feel for how the whole thing will look, feel and work.
 
 #### Interaction ####
-When considering the interaction I was racking my head to think about how people could engage this the
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+At the stage of development when I considered interaction I was racking my head to think about how people could engage with this project as it was only text scrolling across the screen. I thought about the different triggers and interfaces that are available, starting with the ones that on board the microbit. However, I did not think of a suitable trigger in the inventors kit I did think of using an ultrasonic distance sensor as it could detect people approaching the artwork to view it. At this point I had the epiphany to combine a LED strip of text with the figure 8 style shape and make it a sculpture. In incorporating the LED screen into the sculpture I believe people will be drawn into the artwork and will approach it for a closer look. This then can trigger the interaction of the text changing state. Testing, iterating and experimenting will be required to find out if the interaction will actually be carried out. Designing a range of signifiers to signal appropriate action may be required. 
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
-
 ![Image](flowchart.png)
 ![Image](flowdiagram.JPG)
 ## Physical experimentation documentation ##
@@ -144,18 +145,17 @@ Ensure you include comments about the choices you've made along the way.*
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 In developing this design there where a range of questions and the process was not always linear. A lot of the most productive time spent of the project was in short burst, when looking at this through the Double diamond these were times of diverging. Moments like in the week 6 class and other times throughout development vast brainstorms were conducted and this is where many of the key ideas for the project have been conceptualized. 
-![Image](workbook1.JPEG)
+![Image](workbook1.JPG)
 The above image is of a brainstorm conducted in the week 6 class, in this the design intent was formed as with a few possible concepts. Some other key ideas mentioned in this include; watch time, the compulsion to swipe, how interaction with technology has changed, and recording the audience and playing them back. No solid concept was found.
-![Image](workbook2.JPEG)
+![Image](workbook2.JPG)
 The above brain storm was written on A3 and conducted in week 7. This brainstorm dove into the state of the art in life with technology specifically how technology communicates with us. Some other key ideas mentioned include; notifications (subscribed,human trigged and programmed), watch time and ads, algorithm driven content feeding, infinite scroll, and what the message of the work could be. From this still no final concept was made though it further developed the thinking and intent behind the work. 
-![Image](workbook3.JPEG)
+![Image](workbook3.JPG)
 The final image in this section shows a last brainstorm that was conducted between weeks 7 & 8 this explored possible concepts and implementations. In this brainstorm two concepts were sketched with a third coming later, one used the microbit motor to create a paper instagram feed this would have a small size and would imitate using instagram on the phone, another idea this one we discussed in class experimented with using the microbit screen a different ways that it can be viewed or displayed. The third sketch is likely to be the final implementation this was inspired by Jenny Holzer's work as well as one of my own previous works, I combined these aesthetic ideas into the sketch you see here and the others in the final concept section. From this I then focused on developing interaction. 
 
 When reflecting on this and referencing the double diamond I made a range of diverging and converging actions to brainstorm and then pin down effective ideas. In doing this I could solidify my design intent and define the key ideas of the project. It also helped open up to other ideas that I may not have considered otherwise. I also tried to evolve others in the development by asking those that I live with what there thoughts were on the project and some of the ideas were, this feedback was often useful to generate other ideas and consider things I overlooked myself. 
 The following image is of my personal work that influenced the design. This was first created as a random thought for a daily creation in the first weeks of 1703QCA, the image here is a painting of it some time later. I have always found it a captivating shape and that is why I intend to use it in the final design
 ![Image](infinateloop.JPG)
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
 1. Lock down needed software for the text to be scrolled across the screen 
 2. Experiment and find the appropriate material to make the sculpture out of.
 3. Buy needed components 
