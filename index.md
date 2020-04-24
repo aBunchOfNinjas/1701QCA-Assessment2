@@ -72,15 +72,15 @@ This project is related to mine because it uses the
 
 ### *Brief resource name/description* ###
 * [https://projects.jennyholzer.com/LEDs](https://projects.jennyholzer.com/LEDs)
-Jenny Holzer - Inspiration
-[https://www.ntticc.or.jp/en/exhibitions/2011/mikami-seiko-desire-of-codes/](https://www.ntticc.or.jp/en/exhibitions/2011/mikami-seiko-desire-of-codes/)
-Seiko Mikami - Inspiration
-[https://wp.josh.com/2016/05/20/huge-scrolling-arduino-led-sign/](https://wp.josh.com/2016/05/20/huge-scrolling-arduino-led-sign/)
-Josh Levine - Build blog of functional requirements
-[https://core-electronics.com.au/5m-rgb-led-strip-ws2812-60-per-meter-black-strip-weatherproof.html](https://core-electronics.com.au/5m-rgb-led-strip-ws2812-60-per-meter-black-strip-weatherproof.html)
-Core electronics - to source parts and some tutorials 
-[https://www.kitronik.co.uk/blog/distance-sensing-microbit-hc-sr04-module](https://www.kitronik.co.uk/blog/distance-sensing-microbit-hc-sr04-module)
-Micro:bit tutorial for the Ultrasonic distance sensor
+* Jenny Holzer - Inspiration
+* [https://www.ntticc.or.jp/en/exhibitions/2011/mikami-seiko-desire-of-codes/](https://www.ntticc.or.jp/en/exhibitions/2011/mikami-seiko-desire-of-codes/)
+* Seiko Mikami - Inspiration
+* [https://wp.josh.com/2016/05/20/huge-scrolling-arduino-led-sign/](https://wp.josh.com/2016/05/20/huge-scrolling-arduino-led-sign/)
+* Josh Levine - Build blog of functional requirements
+* [https://core-electronics.com.au/5m-rgb-led-strip-ws2812-60-per-meter-black-strip-weatherproof.html](https://core-electronics.com.au/5m-rgb-led-strip-ws2812-60-per-meter-black-strip-weatherproof.html)
+* Core electronics - to source parts and some tutorials 
+* [https://www.kitronik.co.uk/blog/distance-sensing-microbit-hc-sr04-module](https://www.kitronik.co.uk/blog/distance-sensing-microbit-hc-sr04-module)
+* Micro:bit tutorial for the Ultrasonic distance sensor
 
 ## Conceptual progress ##
 
