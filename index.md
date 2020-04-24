@@ -120,7 +120,7 @@ It was calculated that the prototype was 336cm long and I intend on using a 5 hi
 The paper prototype is shown above this was made very simply and was used to estimate the LED cost as well as getting a feel for how the whole thing will look, feel and work.
 
 #### Interaction ####
-When considering the interaction I was racking my head to think about how people could engage this the  
+When considering the interaction I was racking my head to think about how people could engage this the
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
@@ -130,6 +130,8 @@ When considering the interaction I was racking my head to think about how people
 ![Image](flowdiagram.JPG)
 ## Physical experimentation documentation ##
 ![Image](hangingpapermockup.JPG)
+![Image](paperoverled1.JPG)
+![Image](paperoverled2.JPG)
 *In this section, show your progress including whichever of the following are appropriate for your project at this point.
 a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
 b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
@@ -141,6 +143,21 @@ Ensure you include comments about the choices you've made along the way.*
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+In developing this design there where a range of questions and the process was not always linear. A lot of the most productive time spent of the project was in short burst, when looking at this through the Double diamond these were times of diverging. Moments like in the week 6 class and other times throughout development vast brainstorms were conducted and this is where many of the key ideas for the project have been conceptualized. 
+![Image](workbook1.JPEG)
+The above image is of a brainstorm conducted in the week 6 class, in this the design intent was formed as with a few possible concepts. Some other key ideas mentioned in this include; watch time, the compulsion to swipe, how interaction with technology has changed, and recording the audience and playing them back. No solid concept was found.
+![Image](workbook2.JPEG)
+The above brain storm was written on A3 and conducted in week 7. This brainstorm dove into the state of the art in life with technology specifically how technology communicates with us. Some other key ideas mentioned include; notifications (subscribed,human trigged and programmed), watch time and ads, algorithm driven content feeding, infinite scroll, and what the message of the work could be. From this still no final concept was made though it further developed the thinking and intent behind the work. 
+![Image](workbook3.JPEG)
+The final image in this section shows a last brainstorm that was conducted between weeks 7 & 8 this explored possible concepts and implementations. In this brainstorm two concepts were sketched with a third coming later, one used the microbit motor to create a paper instagram feed this would have a small size and would imitate using instagram on the phone, another idea this one we discussed in class experimented with using the microbit screen a different ways that it can be viewed or displayed. The third sketch is likely to be the final implementation this was inspired by Jenny Holzer's work as well as one of my own previous works, I combined these aesthetic ideas into the sketch you see here and the others in the final concept section. From this I then focused on developing interaction. 
 
+When reflecting on this and referencing the double diamond I made a range of diverging and converging actions to brainstorm and then pin down effective ideas. In doing this I could solidify my design intent and define the key ideas of the project. It also helped open up to other ideas that I may not have considered otherwise. I also tried to evolve others in the development by asking those that I live with what there thoughts were on the project and some of the ideas were, this feedback was often useful to generate other ideas and consider things I overlooked myself. 
+The following image is of my personal work that influenced the design. This was first created as a random thought for a daily creation in the first weeks of 1703QCA, the image here is a painting of it some time later. I have always found it a captivating shape and that is why I intend to use it in the final design
+![Image](infinateloop.JPG)
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+1. Lock down needed software for the text to be scrolled across the screen 
+2. Experiment and find the appropriate material to make the sculpture out of.
+3. Buy needed components 
+4. Fabricate project
+5. Test interaction  
