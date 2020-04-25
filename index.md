@@ -20,24 +20,18 @@ Project url:[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrollin
 This project is related to mine because its lighting system is very similar to the intended lighting set up that I will use. This project uses eight WS2812/Neopixel LED light strips that are stacked vertically and programmed to display text, my implementation of this sign will use the microbits 5 high LED resolution and will be about a meter long compared to this project which is about 7 meters long.
 
 ### Related project 2 ###
-*Insert name of project*.   Jenny holzer
-#### Jenny holzer####
-*Insert URL to project*
-[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/](https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/)
-![Image](missingimage.png)
+#### Jenny Holzer####
 
-This project is related to mine because *insert reasons here*.
+[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/](https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/)
+![Image](relatedproject2.JPG)
 This project is related to mine because it uses the 
 
 ### Related project 3 ###
-*Insert name of project*
-#### Giant LED sign for $15/foot ####
-*Insert URL to project*
-[https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/](https://blog.arduino.cc/2016/06/29/a-giant-arduino-powered-scrolling-led-sign-costs-15foot/)
-![Image](missingimage.png)
+#### Moving No.3 Sculpture by Wenqin Chen ####
+[https://www.saatchiart.com/art/Sculpture-Moving-No-3/40932/7029683/view](https://www.saatchiart.com/art/Sculpture-Moving-No-3/40932/7029683/view)
+![Image](relatedproject3.JPG)
 
-This project is related to mine because *insert reasons here*.
-This project is related to mine because it uses the 
+This project is related to mine because of it is simmilar aesthetic apperence. The artwork by Wenqin has a form familiar to my own project. The Artist has also use a reflective material, this is something that is have considered myself as well.  
 
 ### Related project 4 ###
 *Insert name of project*
@@ -154,7 +148,7 @@ The final image in this section shows a last brainstorm that was conducted betwe
 
 When reflecting on this and referencing the double diamond I made a range of diverging and converging actions to brainstorm and then pin down effective ideas. In doing this I could solidify my design intent and define the key ideas of the project. It also helped open up to other ideas that I may not have considered otherwise. I also tried to evolve others in the development by asking those that I live with what there thoughts were on the project and some of the ideas were, this feedback was often useful to generate other ideas and consider things I overlooked myself. 
 The following image is of my personal work that influenced the design. This was first created as a random thought for a daily creation in the first weeks of 1703QCA, the image here is a painting of it some time later. I have always found it a captivating shape and that is why I intend to use it in the final design
-![Image](infinateloop.JPG)
+![Image](infinateloop.jpg)
 ## Next steps ##
 1. Lock down needed software for the text to be scrolled across the screen 
 2. Experiment and find the appropriate material to make the sculpture out of.
